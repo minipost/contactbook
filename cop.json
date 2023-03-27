@@ -1,14 +1,14 @@
 {
   "contacts": [
     {
-      "Firstname": "Jonas",
-      "Lastname": "Karlsson",
-      "Number": "+4561678359"
+      "firstname": "Jonas",
+      "lastname": "Karlsson",
+      "number": "+4561678359"
     },
     {
-      "Firstname": "Peter",
-      "Lastname": "Kristensen",
-      "Number": "+4551543366"
+      "firstname": "Peter",
+      "lastname": "Kristensen",
+      "number": "+4551543366"
     }
   ]
 }
