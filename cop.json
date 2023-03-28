@@ -5,6 +5,43 @@
             "lastName": "Ward",
             "firstName": "Christian",
             "number": "+4530583811"
-        }        
+        }
+        ,
+        {
+            "firstName": "Finn",
+            "lastName": "Nielsen",
+            "number": "+4551543086"
+        },
+        {
+            "firstName": "Henrik",
+            "lastName": "Møller",
+            "number": "+4529499202"
+        },
+        {
+            "firstName": "Jørgen",
+            "lastName": "Olsen",
+            "number": "+4526823952"
+        },
+        {
+            "firstName": "Lars",
+            "lastName": "Sørensen",
+            "number": "+4528118264"
+        },
+        {
+            "firstName": "Peter Aagaard",
+            "lastName": "Kristensen",
+            "number": "+4551543366"
+        },
+        {
+            "firstName": "Rune Hillebo",
+            "lastName": "Wiinberg",
+            "number": "+4531693832"
+        },
+        {
+            "firstName": "Jonas",
+            "lastName": "Karlsson",
+            "number": "+4561676310"
+        }
+        
     ]
 }
